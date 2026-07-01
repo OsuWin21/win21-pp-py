@@ -5,7 +5,7 @@ version = 4
 [[package]]
 name = "akatsuki-pp"
 version = "1.0.1"
-source = "git+https://github.com/ImOyZo/win21-pp-rs.git#9240d1853e29d8bfbe29a15711ef36b75b2bc5c6"
+source = "git+https://github.com/ImOyZo/win21-pp-rs.git?branch=main#96323dece91c9ba60130ec7c94d951f36f1d9da8"
 
 [[package]]
 name = "akatsuki-pp-py"
